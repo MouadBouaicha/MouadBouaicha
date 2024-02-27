@@ -27,7 +27,14 @@ I bring a strong background in AI, including in-depth knowledge and practical ex
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://twitter.com/MouadBouaichaa"><img align="left" alt="BOUAICHA Mouad | Twitter" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/mouad-bouaicha-a4aaa0211"><img align="left" alt="BOUAICHA Mouad | LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" /></a>
-<a href="https://www.instagram.com/mouadbouaicha/"><img align="left" alt="BOUAICHA Mouad | Instagram" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/instagram.svg" /></a>
+[<img align="left" alt="BOUAICHA Mouad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="BOUAICHA Mouad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BOUAICHA Mouad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
+<br />
+
+[twitter]: https://twitter.com/MouadBouaichaa
+[instagram]: https://www.instagram.com/mouadbouaicha/
+[linkedin]: https://www.linkedin.com/in/mouad-bouaicha-a4aaa0211
+
