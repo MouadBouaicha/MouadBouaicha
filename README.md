@@ -3,7 +3,7 @@
 
 
 
- <h1>Hi, I'm BOUAICHA Mouad! 👋</h1>
+ <h1>I'm BOUAICHA Mouad! </h1>
 <h2>A Passionate AI Enthusiast with a Focus on Machine Learning & Deep Learning</h2>
 
 <h3>🚀 Expanding My Horizons</h3>
