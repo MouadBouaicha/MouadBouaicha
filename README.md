@@ -20,7 +20,8 @@ I bring a strong background in AI, including in-depth knowledge and practical ex
 - 🎓 **Previous Degree**: Before that, I studied at **École Nationale des Arts et Métiers (ENSAM)**, where I completed a degree in **Industrial Engineering** with a specialization in **AI & Data Science**.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouadBouaicha&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&hide=)
+
 
 
 
