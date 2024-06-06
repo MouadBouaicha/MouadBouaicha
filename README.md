@@ -15,7 +15,7 @@ I bring a strong background in AI, including in-depth knowledge and practical ex
 
 ## 🎓 Education
 
-- 🏫 **Current Study**: I'm currently a second-year double degree engineering student at **École Centrale de Lyon**, pursuing a generalist engineering program.
+- 🏫 **Current Study**: I'm currently a second-year double degree engineering student at **École Centrale de Lyon**, pursuing a generalist engineering program with a specialization in **Computer Science**.
 
 - 🎓 **Previous Degree**: Before that, I studied at **École Nationale des Arts et Métiers (ENSAM)**, where I completed a degree in **Industrial Engineering** with a specialization in **AI & Data Science**.
 
