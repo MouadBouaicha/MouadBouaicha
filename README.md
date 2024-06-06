@@ -4,7 +4,7 @@
 
 
  <h1>I'm BOUAICHA Mouad! </h1>
-<h2>A Passionate AI Enthusiast with a Focus on Machine Learning & Deep Learning</h2>
+<h2>A Passionate AI Enthusiast with a Focus on Deep Learning  & Generative AI</h2>
 
 <h3>🚀 Expanding My Horizons</h3>
 I bring a strong background in AI, including in-depth knowledge and practical experience in Machine Learning and Deep Learning. Currently, my journey is taking me through the exciting worlds of algorithms 🧮 and web programming 🌐, as I aim to broaden my skill set and uncover new ways to apply my expertise in these dynamic fields.
