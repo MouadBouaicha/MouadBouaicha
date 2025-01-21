@@ -23,7 +23,7 @@ I bring a strong background in AI, including in-depth knowledge and practical ex
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouadBouaicha&layout=compact&hide=)
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUSERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMouadBouaicha&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 
 
